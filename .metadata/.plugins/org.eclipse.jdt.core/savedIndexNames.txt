@@ -1,3 +1,0 @@
-INDEX VERSION 1.134+C:\java_smart_programming\.metadata\.plugins\org.eclipse.jdt.core
-1231539855.index
-1459587695.index
