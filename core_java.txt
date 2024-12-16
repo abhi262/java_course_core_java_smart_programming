@@ -1,0 +1,9 @@
+JAR:(java archieve):jar is compressed vesion of compiled java project
+->it is compressed version of compiled java programm means it compress all the java class file into one 
+zip folder
+->it only contain .class file not java file+manifest file(that contain meta data means meta file)
+->it used to distribute and share code to others by compiling and converting into jar file and share the
+zip to other and with jarfile(zip) got direct execution of java programm
+comand to run jar file: C:\jar>java -jar myproject.jar (jar file name that give during the crating with path)
+->manifiest file inside the meta folder conatain the main class which is executing and select during the creating jar file
+->java decompiler :to restore the .java file and install the software in eclipse
