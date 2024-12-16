@@ -1,5 +1,5 @@
 package Core;
-//variable allocate memory- when object created
+//variable allocate memory- when object created//the name assigned to memory to store the value/literal
 public class Variables {
     public int instance=7;//instance variable//inside non-static method//static method(object of that class)//heap//modifier applicab
     private char instance2='B';
