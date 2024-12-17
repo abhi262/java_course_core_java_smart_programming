@@ -7,3 +7,4 @@ zip to other and with jarfile(zip) got direct execution of java programm
 comand to run jar file: C:\jar>java -jar myproject.jar (jar file name that give during the crating with path)
 ->manifiest file inside the meta folder conatain the main class which is executing and select during the creating jar file
 ->java decompiler :to restore the .java file and install the software in eclipse
+->to make project jar in eclipse  right click on project then click on export and select jar from search
