@@ -10,4 +10,4 @@ comand to run jar file: C:\jar>java -jar myproject.jar (jar file name that give 
 ->to make project jar in eclipse  right click on project then click on export and select jar from search
 ->ctrl+y
 ->the file name and class name must be same and two more criteria the file name is same as the class which 
-is public in that programm and main method which is also inside the same class
+is public in that programm and main method which is also inside the same classes
