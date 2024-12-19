@@ -1,7 +1,7 @@
 package Core;
 //variable allocate memory- when object created//the name assigned to memory to store the value/literal
 public class Variables {
-    public int instance=7;//instance variable//inside non-static method//static method(object of that class)//heap//modifier applicab
+    public int instance=7;//instance variable//inside non-static method//static method(object of that class)//heap//modifier applicable
     private char instance2='B';
     protected String u="instance 3 ";
     static int new1 =12;//no heap//acess-directly,using class,using object//modifier applied//point same memory location(show update one)
@@ -45,6 +45,6 @@ public class Variables {
        System.out.println("static variable using object:"+obj1.new1);//using object obj1
        System.out.println("static variable using object ob3:"+ob3 .new1);//using object ob3
        System.out.println("static variable using object ob4:"+ob4 .new1);//using object ob4
-       System.out.println("static variable using class Variables:"+Variables .new1);//using object ob4
-   }
+		System.out.println("static variable using class Variables:" + Variables.new1);// using object ob4
+	}
 }
