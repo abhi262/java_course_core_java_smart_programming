@@ -28,7 +28,8 @@ public interface I1 {
 	int b=200;
 	void show2();
 }
-class Int implements I1,I2{
+class Int implements I1,I2{ //implements keyword used
+	int gh=45;
 	public void show() {
 		System.out.println("iinteface i1 is working");
 	}

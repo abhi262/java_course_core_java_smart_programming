@@ -5,8 +5,8 @@ package Core;
 //argument:same name//same type of argument//same no of argument//same sequence of argument in bothclass
 //Overriding:if covariant return type(means parent class return is child or subtype of child class return type
 //access modifier :means child class access modifer must be greater than parents class access modifier//bydefault the access modifier of function is package private so if i give public in parents
-//public>protected>private>default(i,e package priavte)
-//private mthod//final method //static method cannot overriden
+//public>protected>private>default(i,e package private)
+//private method//final method //static method cannot overriden
 class Parents {
 	int a = 10, b = 20;
 	String name = "abhijeet";
