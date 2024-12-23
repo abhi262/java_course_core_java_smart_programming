@@ -13,4 +13,7 @@ comand to run jar file: C:\jar>java -jar myproject.jar (jar file name that give 
 is public in that programm and main method which is also inside the same classes
 ->// Consume the leftover newline character
     sc.nextLine();  // This line is crucial to consume the newline character after nextInt()
-abhijeet kumar
+->Each remote name (e.g., origin, org, origina, origins) can point to a different Git repository URL.
+->git remote remove org(delete a remote)Deleting a remote does not delete code on your local machine. It only removes the link to the remote repository.
+->git remote set-url origin https://github.com/new-user/new-repository.git(If the current remote URL is no longer valid (e.g., the repository has moved), you can update the URL of the existing remote using the git remote set-url command.
+For example, to update the URL for origin (the default remote name):)

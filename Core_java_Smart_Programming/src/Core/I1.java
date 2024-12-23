@@ -1,7 +1,4 @@
 package Core;
-
-//import java.awt.print.Printable;
-
 //abstraction  achieve using:using abstract class//using interface
 //interface:interface is same as abstraction but in abstract class we can create the abstract method 
 //and normal method both but in case of interface all the method are abstract we can create normal       method inside it
