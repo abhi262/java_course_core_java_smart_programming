@@ -10,7 +10,7 @@ final class  A{ //cannot extedns class if i put final
 	}
 	
 }
-public class Fina extends A{
+public class Fina {
 //	public void disp() {//cannot override final method
 //		System.out.println("overriden method");
 //	}
