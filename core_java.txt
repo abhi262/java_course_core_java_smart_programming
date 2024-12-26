@@ -18,3 +18,6 @@ is public in that programm and main method which is also inside the same classes
 ->git remote set-url origin https://github.com/new-user/new-repository.git(If the current remote URL is no longer valid (e.g., the repository has moved), you can update the URL of the existing remote using the git remote set-url command.
 For example, to update the URL for origin (the default remote name):)
 git branch -r
+->he git push origin collection --force command is used when you want to forcefully push your local changes to the remote repository, potentially overwriting the remote branch's history. It is typically used in the following scenarios:
+//git push origin collection --force
+->Ctrl + Shift + C
