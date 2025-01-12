@@ -1,0 +1,50 @@
+JAR:(java archieve):jar is compressed vesion of compiled java project
+->it is compressed version of compiled java programm means it compress all the java class file into one 
+zip folder
+->it only contain .class file not java file+manifest file(that contain meta data means meta file)
+->it used to distribute and share code to others by compiling and converting into jar file and share the
+zip to other and with jarfile(zip) got direct execution of java programm
+comand to run jar file: C:\jar>java -jar myproject.jar (jar file name that give during the crating with path)
+->manifiest file inside the meta folder conatain the main class which is executing and select during the creating jar file
+->java decompiler :to restore the .java file and install the software in eclipse
+->to make project jar in eclipse  right click on project then click on export and select jar from search
+->ctrl+y
+->the file name and class name must be same and two more criteria the file name is same as the class which 
+is public in that programm and main method which is also inside the same classes
+->// Consume the leftover newline character
+    sc.nextLine();  // This line is crucial to consume the newline character after nextInt()
+->Each remote name (e.g., origin, org, origina, origins) can point to a different Git repository URL.
+->git remote remove org(delete a remote)Deleting a remote does not delete code on your local machine. It only removes the link to the remote repository.
+->git remote set-url origin https://github.com/new-user/new-repository.git(If the current remote URL is no longer valid (e.g., the repository has moved), you can update the URL of the existing remote using the git remote set-url command.
+For example, to update the URL for origin (the default remote name):)
+git branch -r
+->he git push origin collection --force command is used when you want to forcefully push your local changes to the remote repository, potentially overwriting the remote branch's history. It is typically used in the following scenarios:
+//git push origin collection --force
+->Ctrl + Shift + C
+=>========java version==============================================================
+LTS:Java 8 (JDK 8) received extended support for 8 years (until 2022), and Oracle still offers extended commercial support to customers for even longer periods.
+Java 11 (JDK 11) has support until at least 2026.
+Java 17 (JDK 17) will be supported until at least 2029.
+--------------------------Version--------------------------------------------------
+java 1.1
+java 1.2
+java 1.3
+java 1.4
+java 1.5
+Java 1.6 = Java SE 6 = JDK 6
+Java 1.7 = Java SE 7 = JDK 7
+Java 1.8 = Java SE 8 = JDK 8(LTS:Yes, it is the first LTS version in the modern Java era.)
+Java 9 = JDK 9
+Java 10 = JDK 10
+Java 11 = JDK 11 (This is a long-term support (LTS) version)
+Java 12 = JDK 12
+Java 13 = JDK 13
+Java 14 = JDK 14
+Java 15 = JDK 15
+Java 16 = JDK 16
+Java 17 = JDK 17 (LTS version)
+Java 18 = JDK 18
+Java 19 = JDK 19
+Java 20 = JDK 20
+jdk 21,22,23
+======================================================================================
